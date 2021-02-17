@@ -24,7 +24,7 @@ var portal,portalImg;
 var thuder,tbc1;
 function preload(){
   //Thalleous   
-  Thalleous_running = loadAnimation("Thalleous/T1.png","Thalleous/T2.png","Thalleous/T3.png","Thalleous/T4.png","Thalleous/T5.png","Thalleous/T6.png","Thalleous/T7.png","Thalleous/T8.png","Thalleous/T9.png","Thalleous/T10.png","Thalleous/T11.png");
+  Thalleous_running = loadAnimation("Thalleous/T1.png","Thalleous/T2.png","Thalleous/T3.png","Thalleous/T4.png","Thalleous/T5.png","Thalleous/T6.png","Thalleous/T7.png","Thalleous/T8.png","Thalleous/T9.png","Thalleous/T10.png","Thalleous/T11.Png");
     Thalleous_Sword=loadAnimation("Thalleous/TS1.png","Thalleous/TS2.png","Thalleous/TS3.png","Thalleous/TS4.png","Thalleous/TS5.png","Thalleous/TS6.png","Thalleous/TS7.png","Thalleous/TS8.png","Thalleous/TS9.png","Thalleous/TS10.png","Thalleous/TS11.png")
 Thalleous_jump=loadAnimation("Thalleous/J1.png","Thalleous/J2.png","Thalleous/J3.png","Thalleous/J4.png","Thalleous/J5.png","Thalleous/J6.png","Thalleous/J7.png","Thalleous/J8.png")
 Thalleous_SwordJ=loadAnimation("Thalleous/SJ1.png","Thalleous/SJ2.png","Thalleous/SJ3.png","Thalleous/SJ4.png","Thalleous/SJ5.png","Thalleous/SJ6.png","Thalleous/SJ7.png","Thalleous/SJ8.png","Thalleous/SJ9.png")
