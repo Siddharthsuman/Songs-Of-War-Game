@@ -82,7 +82,7 @@ backgroundImg3=loadImage("Background/River.png")
 backgroundImg4=loadImage("Background/StartM.png")
 backgroundImg5=loadImage("Background/Forest.png")
 backgroundImg6=loadImage("Background/Fight.png")
-backgroundImg7=loadImage("Background/ENd.png")
+backgroundImg7=loadImage("Background/End.png")
 backgroundImg8=loadImage("Background/StartM2.png")
 }
 
