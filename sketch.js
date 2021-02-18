@@ -22,6 +22,14 @@ var PlayImg;
 var note1,note2;
 var portal,portalImg;
 var thuder,tbc1;
+var Tree1,Tree2,Tree3,Talk1,Talk2,Talk3,Talk4
+var SoImg,EndingImg,TbcImg
+var background1,background2,background3,background4,background5,background6;
+var invisibleGround1,invisibleGround2,Talk1Img,Talk2Img,Talk3Img,Talk4Img;
+var play1,play2,Play,Play3,Play4
+var score=0
+var Sop,EndC,tbc1
+var Sound;
 function preload(){
   //Thalleous   
   Thalleous_running = loadAnimation("Thalleous/T1.png","Thalleous/T2.png","Thalleous/T3.png","Thalleous/T4.png","Thalleous/T5.png","Thalleous/T6.png","Thalleous/T7.png","Thalleous/T8.png","Thalleous/T9.png","Thalleous/T10.png","Thalleous/T11.Png");
